@@ -12,8 +12,8 @@ This project focuses on detecting spam emails using **Logistic Regression** with
 - Tools: **Python, Jupyter Notebook**  
 - Libraries: **Pandas, NumPy, Scikit-learn, Matplotlib**  
 - Implemented in two main steps:
-  1. `1_data_preprocessing.ipynb` – handled missing values, normalization, and encoding  
-  2. `2_model_development.ipynb` – trained and optimized the logistic regression model  
+  1. `data_preprocessing.ipynb` – handled missing values, normalization, and encoding  
+  2. `model_development.ipynb` – trained and optimized the logistic regression model  
 
 ## Outcome
 Achieved ~93% accuracy with balanced precision and recall.  
